@@ -70,6 +70,15 @@ print (e)       # e will be True because 5 is less than or equal to 5.
 f = 7 != 7      # { != } -- Not equal to operator
 print (f)       # f will be False because 7 is equal to 7.
 
+
+
+#                           |  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|  
+#                           |  NOTE: The assignment operator (=) and the comparison operator (==) are different.|
+#                           |     {=} - It is used  for assigning the values.                                   |
+#                           |     {==} - It is used for comparing the values.                                   |
+#                           |  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+
+
 # ---------------------------------------------------------------------------------------------------------
 
 # LOGICAL OPERATORS-------------------
@@ -78,13 +87,25 @@ print (f)       # f will be False because 7 is equal to 7.
 #  { or } -- Logical OR operator (or) is used to combine two boolean expressions and returns True if at least one of the expressions is True, otherwise returns False.
 #  { not } -- Logical NOT operator (not) is used to negate a boolean expression and returns True if the expression is False, and returns False if the expression is True.   
 
+
+                                                      # [OR]
+
 g = True and False   #For and operator, if both expressions are True, then the result will be True.
 print (g)            # g will be False because both expressions are not True.
+
+                                                      # [AND]
 
 h = True or False    # For or operator, if at least one of the expressions is True, then the result will be True.  
 print (h)            # h will be True because at least one of the expressions is True.
 
+                                                      # [NOT]
+
 i = not True
 print (i)       # i will be False because the expression is negated.
 
+# NOT - The not operator only operates on a single operand and gives the value , which is either True or False.
+# meaning it turns 'true' into 'False' and 'False' into 'True'.
+
+print(not(False))
+print(not(True))
 
