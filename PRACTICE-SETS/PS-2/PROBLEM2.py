@@ -1,0 +1,6 @@
+
+# WRITE A PYTHON PROGRAM TO FIND REMAINDER WHEN A NUMBER IS DIVIDED BY Z.
+
+a = 345678
+b =12
+print("The remainder is ", a % b)
