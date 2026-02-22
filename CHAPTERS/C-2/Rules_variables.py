@@ -1,3 +1,6 @@
+
+                                #   RULES FOR NAMING VARIABLES IN PYTHON........
+
 a = 23           # It will work
 aaa = 345        # It will work
 harry = 43       # It will work

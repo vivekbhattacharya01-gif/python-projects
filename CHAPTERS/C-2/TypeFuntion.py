@@ -1,6 +1,8 @@
 
 #                                  ---- TYPE FUNCTIONS IN PYTHON ----
 
+
+
 # 1.   type() function is used to find the data type of a given variable in python.
 # 2.   type() function is used to determine the type of a variable or a value in Python. 
 # 3.   It returns the type of the object passed as an argument.

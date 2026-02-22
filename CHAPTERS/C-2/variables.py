@@ -1,3 +1,8 @@
+
+#                                           ------VARIABLES IN PYTHON -------
+
+
+
 # VARIABLES AND DATA TYPES IN PYTHON---
 
 #  A Variable is the name given to a memory location in  a program. 

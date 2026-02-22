@@ -1,5 +1,7 @@
 
-                                        #   Input Function
+                                        #   Input Function............
+
+
 # This function allows the user to take input from the keyboard as a string. The syntax is as follows :
 
 a = input("enter a  number : ")

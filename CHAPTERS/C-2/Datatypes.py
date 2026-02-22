@@ -1,3 +1,7 @@
+
+                            #    DATATYPES IN PYTHON......
+
+
 a =1           #a is an integer variable that holds the value 1.
 
 b =3.55        #b is a float variable that holds the value 3.55.(floating point number)
