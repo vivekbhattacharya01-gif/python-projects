@@ -56,7 +56,6 @@ python filename.py
 | Data structures | ✅ Done |
 | File handling | 🔄 In Progress |
 | OOP | 🔄 In Progress |
-| Libraries (NumPy, Pandas etc.) | 🔜 Coming Soon |
 | Projects | 🔜 Coming Soon |
 
 ---
